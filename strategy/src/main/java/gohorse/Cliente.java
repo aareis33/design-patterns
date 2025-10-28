@@ -1,3 +1,4 @@
+package gohorse;
 
 public class Cliente {
 

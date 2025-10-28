@@ -1,3 +1,5 @@
+package gohorse;
+
 public class Pedido {
 
     private final double pesoKg;
