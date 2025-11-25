@@ -1,0 +1,10 @@
+/home/alexandreandrade/arquitetura-de-software/design-patterns/adapter/src/main/java/designpattern/Main.java
+/home/alexandreandrade/arquitetura-de-software/design-patterns/adapter/src/main/java/gohorse/Cliente.java
+/home/alexandreandrade/arquitetura-de-software/design-patterns/adapter/src/main/java/designpattern/ApiPagamentoLegadoAdapter.java
+/home/alexandreandrade/arquitetura-de-software/design-patterns/adapter/src/main/java/designpattern/GatewayPagamentoModernoAdapter.java
+/home/alexandreandrade/arquitetura-de-software/design-patterns/adapter/src/main/java/gohorse/aplicacaolegada/ServicoPagamento.java
+/home/alexandreandrade/arquitetura-de-software/design-patterns/adapter/src/main/java/gohorse/aplicacaolegada/ApiPagamentoLegado.java
+/home/alexandreandrade/arquitetura-de-software/design-patterns/adapter/src/main/java/designpattern/GatewayPagamento.java
+/home/alexandreandrade/arquitetura-de-software/design-patterns/adapter/src/main/java/gohorse/aplicacaomoderna/GatewayPagamentoModerno.java
+/home/alexandreandrade/arquitetura-de-software/design-patterns/adapter/src/main/java/designpattern/ServicoPagamento.java
+/home/alexandreandrade/arquitetura-de-software/design-patterns/adapter/src/main/java/gohorse/aplicacaomoderna/INovoGatewayPagamento.java

@@ -1,0 +1,10 @@
+designpattern/Main.class
+designpattern/GatewayPagamento.class
+gohorse/aplicacaomoderna/INovoGatewayPagamento.class
+designpattern/ServicoPagamento.class
+gohorse/aplicacaomoderna/GatewayPagamentoModerno.class
+designpattern/ApiPagamentoLegadoAdapter.class
+gohorse/aplicacaolegada/ApiPagamentoLegado.class
+gohorse/aplicacaolegada/ServicoPagamento.class
+designpattern/GatewayPagamentoModernoAdapter.class
+gohorse/Cliente.class

@@ -1,0 +1,6 @@
+gohorse/NotificacaoSMS.class
+gohorse/INotificacao.class
+gohorse/NotificacaoPush.class
+gohorse/Cliente.class
+gohorse/NotificacaoEmail.class
+gohorse/ServicoNotificacao.class
