@@ -21,4 +21,11 @@ public class EstadoEnviado implements EstadoPedido {
     public void cancelar(Pedido pedido) {
         System.out.println("Ação 'cancelar' inválida. Pedido já foi enviado ao cliente.");
     }
+
+    /**
+     * @param pedido TODO
+     */
+    void mudarEstado(Pedido pedido) {
+        pedido.estadoAtual = this;
+    }
 }
